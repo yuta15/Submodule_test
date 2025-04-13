@@ -1,0 +1,3 @@
+[submodule "BlogApp_by_FastAPI"]
+	path = BlogApp_by_FastAPI
+	url = git@github.com:yuta15/BlogApp_by_FastAPI.git
